@@ -1,6 +1,6 @@
 {
   "name": "csrf-graphql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A GraphQL CSRF token",
   "main": "index.js",
   "scripts": {
